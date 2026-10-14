@@ -1,0 +1,241 @@
+OrderID,OrderDate,CustomerName,State,Category,SubCategory,PaymentMode,Quantity,Amount,Profit,Month
+ORD-1001,2025-08-08,Mohan,Madhya Pradesh,Furniture,Printers,EMI,24,4895.55,284.04,Aug
+ORD-1002,2025-12-21,Harivansh,Uttar Pradesh,Furniture,Shirts,COD,7,1003.2,70.9,Dec
+ORD-1003,2025-04-21,Harivansh,Maharashtra,Clothing,Shirts,COD,27,1100.94,60.02,Apr
+ORD-1004,2025-11-24,Shiva,Maharashtra,Clothing,Tables,COD,26,951.99,119.48,Nov
+ORD-1005,2025-11-04,Aarav,Maharashtra,Clothing,Tables,Credit Card,13,870.21,89.02,Nov
+ORD-1006,2025-04-20,Kavya,Madhya Pradesh,Electronics,Saree,Debit Card,7,770.33,59.7,Apr
+ORD-1007,2025-03-08,Aarav,Maharashtra,Furniture,Printers,COD,20,2971.98,289.05,Mar
+ORD-1008,2025-01-17,Aarav,Maharashtra,Furniture,Printers,Credit Card,9,1222.46,134.3,Jan
+ORD-1009,2025-12-07,Madan,Madhya Pradesh,Electronics,Accessories,COD,18,3579.81,338.93,Dec
+ORD-1010,2025-10-24,Aarav,Maharashtra,Electronics,Shirts,COD,33,4385.81,467.63,Oct
+ORD-1011,2025-04-04,Mohan,Maharashtra,Clothing,Bookcases,COD,15,1143.04,138.59,Apr
+ORD-1012,2025-04-01,Mohan,Madhya Pradesh,Clothing,Phones,COD,21,582.27,54.55,Apr
+ORD-1013,2025-03-24,Madhav,Uttar Pradesh,Clothing,Bookcases,COD,27,2102.51,134.66,Mar
+ORD-1014,2025-09-11,Shiva,Maharashtra,Clothing,Chairs,Credit Card,5,286.2,13.91,Sep
+ORD-1015,2025-02-27,Priya,Uttar Pradesh,Furniture,Bookcases,UPI,12,1935.5,211.71,Feb
+ORD-1016,2025-08-13,Shiva,Madhya Pradesh,Furniture,Accessories,COD,30,3198.34,178.92,Aug
+ORD-1017,2025-11-10,Aarav,Rajasthan,Clothing,Chairs,UPI,20,897.47,61.99,Nov
+ORD-1018,2025-02-15,Aarav,Maharashtra,Clothing,Phones,Debit Card,18,1398.76,124.2,Feb
+ORD-1019,2025-11-19,Mohan,Maharashtra,Clothing,Phones,EMI,22,1726.45,90.13,Nov
+ORD-1020,2025-08-26,Kavya,Maharashtra,Clothing,Chairs,UPI,33,2465.24,272.97,Aug
+ORD-1021,2025-08-17,Priya,Delhi,Clothing,Tables,Credit Card,20,700.61,58.3,Aug
+ORD-1022,2025-12-17,Shiva,Madhya Pradesh,Clothing,Phones,Debit Card,12,995.02,51.33,Dec
+ORD-1023,2025-07-10,Mohan,Maharashtra,Electronics,Saree,COD,26,5920.42,442.28,Jul
+ORD-1024,2025-03-12,Madan,Madhya Pradesh,Furniture,Shirts,COD,21,3113.85,381.5,Mar
+ORD-1025,2025-10-20,Harivansh,Uttar Pradesh,Furniture,Printers,Debit Card,5,957.73,93.4,Oct
+ORD-1026,2025-08-13,Harivansh,Rajasthan,Clothing,Saree,Credit Card,7,533.74,43.36,Aug
+ORD-1027,2025-01-27,Priya,Uttar Pradesh,Clothing,Chairs,Debit Card,16,1274.23,67.73,Jan
+ORD-1028,2025-01-25,Aarav,Rajasthan,Clothing,Bookcases,Debit Card,25,651.6,71.15,Jan
+ORD-1029,2025-03-01,Madan,Maharashtra,Clothing,Shirts,Credit Card,5,137.46,8.83,Mar
+ORD-1030,2025-12-21,Harivansh,Madhya Pradesh,Furniture,Printers,Debit Card,8,589.61,36.04,Dec
+ORD-1031,2025-08-23,Harivansh,Rajasthan,Electronics,Phones,UPI,7,1557.97,104.22,Aug
+ORD-1032,2025-09-17,Madan,Maharashtra,Clothing,Printers,EMI,7,188.34,11.06,Sep
+ORD-1033,2025-02-22,Mohan,Uttar Pradesh,Clothing,Saree,Debit Card,21,1351.14,166.65,Feb
+ORD-1034,2025-01-26,Madhav,Maharashtra,Electronics,Printers,COD,18,3256.01,273.17,Jan
+ORD-1035,2025-10-12,Aarav,Uttar Pradesh,Clothing,Bookcases,COD,23,1442.97,113.18,Oct
+ORD-1036,2025-12-12,Mohan,Uttar Pradesh,Clothing,Phones,Debit Card,13,703.48,64.41,Dec
+ORD-1037,2025-04-22,Kavya,Delhi,Clothing,Tables,Credit Card,12,706.09,52.54,Apr
+ORD-1038,2025-01-14,Shiva,Maharashtra,Furniture,Accessories,COD,30,3407.69,389.37,Jan
+ORD-1039,2025-02-02,Harivansh,Maharashtra,Furniture,Phones,Credit Card,29,2697.56,190.18,Feb
+ORD-1040,2025-11-11,Mohan,Rajasthan,Furniture,Chairs,Debit Card,17,1449.51,108.37,Nov
+ORD-1041,2025-05-19,Priya,Madhya Pradesh,Clothing,Bookcases,COD,28,1923.26,86.84,May
+ORD-1042,2025-11-23,Priya,Madhya Pradesh,Clothing,Bookcases,COD,17,1471.64,186.97,Nov
+ORD-1043,2025-02-21,Madhav,Maharashtra,Clothing,Chairs,COD,30,1547.14,91.87,Feb
+ORD-1044,2025-11-14,Aarav,Uttar Pradesh,Clothing,Shirts,UPI,10,611.91,39.55,Nov
+ORD-1045,2025-12-21,Kavya,Madhya Pradesh,Electronics,Shirts,Debit Card,28,4333.85,314.43,Dec
+ORD-1046,2025-05-14,Mohan,Uttar Pradesh,Furniture,Accessories,COD,16,3064.14,222.86,May
+ORD-1047,2025-04-25,Madan,Rajasthan,Clothing,Printers,UPI,34,2175.61,131.14,Apr
+ORD-1048,2025-03-17,Priya,Uttar Pradesh,Clothing,Chairs,UPI,9,222.28,21.61,Mar
+ORD-1049,2025-09-25,Harivansh,Delhi,Electronics,Printers,UPI,24,6352.16,741.43,Sep
+ORD-1050,2025-01-18,Kavya,Madhya Pradesh,Clothing,Phones,COD,33,2816.54,297.42,Jan
+ORD-1051,2025-08-21,Madhav,Delhi,Clothing,Accessories,COD,20,1101.9,138.85,Aug
+ORD-1052,2025-12-22,Kavya,Maharashtra,Clothing,Printers,Debit Card,21,1732.64,130.67,Dec
+ORD-1053,2025-11-21,Kavya,Uttar Pradesh,Electronics,Bookcases,Credit Card,24,5362.88,259.3,Nov
+ORD-1054,2025-10-14,Mohan,Maharashtra,Clothing,Phones,Credit Card,33,2208.22,263.07,Oct
+ORD-1055,2025-09-24,Mohan,Maharashtra,Clothing,Chairs,COD,28,1206.09,81.09,Sep
+ORD-1056,2025-01-20,Mohan,Uttar Pradesh,Clothing,Bookcases,EMI,18,1352.11,105.95,Jan
+ORD-1057,2025-05-17,Harivansh,Maharashtra,Electronics,Saree,COD,27,6907.89,383.33,May
+ORD-1058,2025-07-13,Kavya,Uttar Pradesh,Clothing,Shirts,COD,14,899.11,111.89,Jul
+ORD-1059,2025-05-07,Madhav,Uttar Pradesh,Furniture,Tables,COD,16,2317.89,246.43,May
+ORD-1060,2025-12-09,Madan,Delhi,Clothing,Shirts,COD,13,442.41,40.35,Dec
+ORD-1061,2025-11-27,Shiva,Uttar Pradesh,Clothing,Bookcases,COD,33,2202.63,242.51,Nov
+ORD-1062,2025-02-26,Priya,Maharashtra,Electronics,Printers,COD,14,2338.06,291.07,Feb
+ORD-1063,2025-02-13,Priya,Maharashtra,Clothing,Accessories,Debit Card,34,1929.77,103.41,Feb
+ORD-1064,2025-09-09,Shiva,Maharashtra,Clothing,Shirts,UPI,34,1668.46,89.47,Sep
+ORD-1065,2025-06-09,Madhav,Maharashtra,Clothing,Saree,UPI,5,257.08,16.97,Jun
+ORD-1066,2025-10-07,Aarav,Maharashtra,Electronics,Phones,COD,15,3879.4,321.13,Oct
+ORD-1067,2025-06-25,Priya,Maharashtra,Clothing,Tables,UPI,5,124.1,6.64,Jun
+ORD-1068,2025-05-23,Kavya,Delhi,Clothing,Shirts,COD,25,613.38,35.49,May
+ORD-1069,2025-05-13,Madhav,Delhi,Furniture,Saree,UPI,21,2529.17,283.87,May
+ORD-1070,2025-07-12,Shiva,Maharashtra,Clothing,Printers,Debit Card,20,885.05,64.81,Jul
+ORD-1071,2025-05-20,Aarav,Uttar Pradesh,Electronics,Bookcases,COD,14,3516.68,192.69,May
+ORD-1072,2025-05-27,Shiva,Rajasthan,Clothing,Bookcases,Credit Card,8,195.91,18.25,May
+ORD-1073,2025-08-17,Madan,Delhi,Clothing,Phones,COD,9,373.06,25.7,Aug
+ORD-1074,2025-05-07,Mohan,Uttar Pradesh,Clothing,Accessories,Debit Card,9,713.74,64.62,May
+ORD-1075,2025-01-21,Harivansh,Madhya Pradesh,Clothing,Shirts,COD,13,1120.69,50.77,Jan
+ORD-1076,2025-04-25,Madan,Maharashtra,Clothing,Bookcases,Credit Card,28,1375.58,171.46,Apr
+ORD-1077,2025-11-06,Shiva,Delhi,Furniture,Tables,Debit Card,12,2347.13,178.26,Nov
+ORD-1078,2025-06-16,Mohan,Maharashtra,Electronics,Printers,Debit Card,33,8374.14,929.34,Jun
+ORD-1079,2025-07-27,Priya,Uttar Pradesh,Clothing,Saree,UPI,11,528.03,40.79,Jul
+ORD-1080,2025-01-17,Madan,Maharashtra,Clothing,Accessories,COD,5,415.9,31.52,Jan
+ORD-1081,2025-04-10,Mohan,Maharashtra,Electronics,Chairs,COD,6,792.73,85.02,Apr
+ORD-1082,2025-06-15,Harivansh,Uttar Pradesh,Clothing,Chairs,UPI,19,1021.32,86.31,Jun
+ORD-1083,2025-09-07,Harivansh,Rajasthan,Clothing,Chairs,EMI,12,513.74,61.46,Sep
+ORD-1084,2025-12-04,Priya,Uttar Pradesh,Clothing,Tables,COD,17,738.18,84.87,Dec
+ORD-1085,2025-03-05,Aarav,Madhya Pradesh,Clothing,Saree,Debit Card,18,1402.58,96.79,Mar
+ORD-1086,2025-09-06,Shiva,Delhi,Electronics,Saree,COD,6,656.86,34.58,Sep
+ORD-1087,2025-09-13,Priya,Uttar Pradesh,Clothing,Saree,COD,6,238.15,27.95,Sep
+ORD-1088,2025-03-05,Madan,Madhya Pradesh,Clothing,Accessories,UPI,13,1085.14,94.99,Mar
+ORD-1089,2025-03-04,Madhav,Uttar Pradesh,Clothing,Bookcases,COD,15,482.33,59.78,Mar
+ORD-1090,2025-09-01,Harivansh,Madhya Pradesh,Clothing,Accessories,UPI,31,983.71,93.55,Sep
+ORD-1091,2025-04-27,Aarav,Madhya Pradesh,Clothing,Chairs,COD,30,2274.07,129.71,Apr
+ORD-1092,2025-08-22,Madhav,Madhya Pradesh,Clothing,Chairs,UPI,6,380.86,23.6,Aug
+ORD-1093,2025-07-27,Shiva,Uttar Pradesh,Clothing,Bookcases,COD,21,880.68,48.48,Jul
+ORD-1094,2025-05-09,Harivansh,Rajasthan,Furniture,Accessories,COD,24,3931.97,371.15,May
+ORD-1095,2025-07-19,Priya,Rajasthan,Clothing,Phones,UPI,7,542.83,64.53,Jul
+ORD-1096,2025-03-09,Kavya,Uttar Pradesh,Electronics,Tables,UPI,10,1547.3,120.63,Mar
+ORD-1097,2025-05-12,Madan,Maharashtra,Furniture,Bookcases,Debit Card,14,1781.03,144.34,May
+ORD-1098,2025-06-18,Kavya,Maharashtra,Electronics,Shirts,Debit Card,26,3832.42,418.92,Jun
+ORD-1099,2025-10-08,Priya,Uttar Pradesh,Clothing,Bookcases,Debit Card,31,1022.19,123.03,Oct
+ORD-1100,2025-01-17,Mohan,Uttar Pradesh,Furniture,Accessories,COD,22,2518.3,316.96,Jan
+ORD-1101,2025-05-24,Madan,Uttar Pradesh,Clothing,Saree,UPI,26,1629.94,188.5,May
+ORD-1102,2025-06-10,Kavya,Delhi,Electronics,Chairs,Debit Card,29,7405.56,849.85,Jun
+ORD-1103,2025-06-13,Madan,Uttar Pradesh,Electronics,Saree,COD,8,1052.01,72.0,Jun
+ORD-1104,2025-01-23,Shiva,Delhi,Clothing,Shirts,COD,24,1883.17,136.26,Jan
+ORD-1105,2025-07-04,Harivansh,Uttar Pradesh,Electronics,Accessories,EMI,23,6237.45,356.34,Jul
+ORD-1106,2025-08-02,Madhav,Maharashtra,Furniture,Phones,Credit Card,23,2466.0,291.56,Aug
+ORD-1107,2025-06-12,Harivansh,Rajasthan,Clothing,Chairs,UPI,9,531.29,52.5,Jun
+ORD-1108,2025-03-20,Madhav,Uttar Pradesh,Clothing,Printers,COD,25,2144.53,171.07,Mar
+ORD-1109,2025-07-23,Priya,Madhya Pradesh,Electronics,Shirts,Credit Card,25,4100.02,438.12,Jul
+ORD-1110,2025-11-24,Mohan,Maharashtra,Clothing,Printers,COD,22,666.42,33.26,Nov
+ORD-1111,2025-03-01,Harivansh,Delhi,Electronics,Shirts,UPI,7,1672.09,94.53,Mar
+ORD-1112,2025-04-03,Madhav,Delhi,Electronics,Tables,UPI,6,1338.91,143.47,Apr
+ORD-1113,2025-09-06,Madan,Maharashtra,Clothing,Bookcases,Credit Card,17,635.25,32.68,Sep
+ORD-1114,2025-09-27,Madhav,Rajasthan,Clothing,Chairs,Credit Card,25,822.07,63.39,Sep
+ORD-1115,2025-07-06,Priya,Delhi,Clothing,Tables,Debit Card,23,1508.32,138.18,Jul
+ORD-1116,2025-10-02,Madan,Delhi,Clothing,Shirts,UPI,20,1242.88,98.51,Oct
+ORD-1117,2025-02-08,Aarav,Maharashtra,Clothing,Printers,COD,27,1542.38,155.51,Feb
+ORD-1118,2025-10-18,Aarav,Maharashtra,Furniture,Chairs,COD,28,3813.69,320.57,Oct
+ORD-1119,2025-02-06,Harivansh,Maharashtra,Clothing,Accessories,COD,18,1207.03,74.31,Feb
+ORD-1120,2025-01-09,Kavya,Maharashtra,Furniture,Tables,Credit Card,10,1198.31,79.56,Jan
+ORD-1121,2025-09-03,Madhav,Delhi,Furniture,Shirts,Credit Card,25,3949.0,215.04,Sep
+ORD-1122,2025-03-27,Harivansh,Delhi,Clothing,Tables,COD,9,243.18,30.05,Mar
+ORD-1123,2025-06-14,Aarav,Maharashtra,Furniture,Tables,COD,14,1725.2,133.69,Jun
+ORD-1124,2025-02-03,Shiva,Uttar Pradesh,Clothing,Accessories,EMI,34,2679.77,210.15,Feb
+ORD-1125,2025-12-11,Madan,Uttar Pradesh,Furniture,Phones,COD,26,3911.73,324.15,Dec
+ORD-1126,2025-01-11,Aarav,Uttar Pradesh,Clothing,Bookcases,Debit Card,7,211.4,16.23,Jan
+ORD-1127,2025-08-23,Priya,Madhya Pradesh,Clothing,Chairs,EMI,20,1653.67,80.46,Aug
+ORD-1128,2025-04-01,Madan,Delhi,Clothing,Phones,UPI,34,906.62,42.14,Apr
+ORD-1129,2025-07-01,Aarav,Maharashtra,Clothing,Tables,COD,18,1328.53,100.23,Jul
+ORD-1130,2025-06-14,Aarav,Uttar Pradesh,Electronics,Bookcases,Credit Card,9,2385.71,276.24,Jun
+ORD-1131,2025-10-03,Priya,Madhya Pradesh,Clothing,Tables,COD,8,602.72,76.16,Oct
+ORD-1132,2025-03-04,Priya,Maharashtra,Clothing,Shirts,UPI,8,594.54,41.41,Mar
+ORD-1133,2025-07-19,Madhav,Madhya Pradesh,Clothing,Printers,UPI,18,621.59,59.66,Jul
+ORD-1134,2025-11-04,Madhav,Delhi,Clothing,Accessories,EMI,18,650.04,80.25,Nov
+ORD-1135,2025-12-18,Madan,Uttar Pradesh,Clothing,Printers,EMI,22,1741.27,139.82,Dec
+ORD-1136,2025-03-02,Madan,Delhi,Furniture,Chairs,COD,24,4780.19,229.59,Mar
+ORD-1137,2025-07-23,Priya,Madhya Pradesh,Clothing,Accessories,COD,5,170.26,15.61,Jul
+ORD-1138,2025-12-09,Priya,Uttar Pradesh,Furniture,Shirts,Credit Card,13,2705.31,141.06,Dec
+ORD-1139,2025-04-23,Shiva,Rajasthan,Furniture,Tables,EMI,23,4222.47,379.5,Apr
+ORD-1140,2025-10-14,Harivansh,Maharashtra,Electronics,Printers,Debit Card,27,4277.2,329.29,Oct
+ORD-1141,2025-08-26,Madan,Maharashtra,Clothing,Chairs,UPI,10,628.16,38.61,Aug
+ORD-1142,2025-07-27,Madhav,Uttar Pradesh,Furniture,Bookcases,EMI,31,2796.17,138.56,Jul
+ORD-1143,2025-07-17,Mohan,Madhya Pradesh,Clothing,Chairs,COD,24,886.97,103.33,Jul
+ORD-1144,2025-01-12,Shiva,Madhya Pradesh,Clothing,Bookcases,Debit Card,17,1425.1,127.46,Jan
+ORD-1145,2025-04-12,Aarav,Maharashtra,Electronics,Bookcases,UPI,9,1982.03,242.92,Apr
+ORD-1146,2025-07-14,Kavya,Maharashtra,Clothing,Accessories,UPI,5,258.77,21.79,Jul
+ORD-1147,2025-04-18,Madan,Maharashtra,Clothing,Accessories,Credit Card,26,713.44,85.06,Apr
+ORD-1148,2025-02-22,Madan,Uttar Pradesh,Electronics,Saree,Debit Card,27,5528.47,536.34,Feb
+ORD-1149,2025-01-11,Shiva,Maharashtra,Furniture,Accessories,Debit Card,26,3676.66,389.12,Jan
+ORD-1150,2025-10-06,Mohan,Rajasthan,Clothing,Printers,COD,16,1019.78,68.37,Oct
+ORD-1151,2025-10-08,Aarav,Madhya Pradesh,Clothing,Bookcases,UPI,16,921.54,95.34,Oct
+ORD-1152,2025-08-08,Madhav,Madhya Pradesh,Clothing,Printers,Credit Card,16,698.66,72.1,Aug
+ORD-1153,2025-06-23,Madhav,Madhya Pradesh,Electronics,Bookcases,COD,8,1907.17,141.93,Jun
+ORD-1154,2025-01-21,Priya,Madhya Pradesh,Clothing,Saree,COD,32,1408.44,114.0,Jan
+ORD-1155,2025-04-26,Shiva,Rajasthan,Electronics,Tables,EMI,6,1234.14,157.67,Apr
+ORD-1156,2025-12-13,Shiva,Uttar Pradesh,Electronics,Accessories,UPI,15,1352.45,115.74,Dec
+ORD-1157,2025-01-03,Priya,Rajasthan,Electronics,Shirts,COD,34,7932.93,1010.85,Jan
+ORD-1158,2025-12-08,Mohan,Maharashtra,Clothing,Saree,COD,27,1685.95,153.12,Dec
+ORD-1159,2025-11-26,Priya,Delhi,Clothing,Bookcases,COD,23,1141.35,68.83,Nov
+ORD-1160,2025-06-04,Madan,Maharashtra,Furniture,Chairs,COD,28,2858.05,192.49,Jun
+ORD-1161,2025-09-07,Aarav,Maharashtra,Clothing,Bookcases,UPI,25,1828.08,208.54,Sep
+ORD-1162,2025-10-02,Madhav,Delhi,Furniture,Accessories,COD,31,5754.95,297.54,Oct
+ORD-1163,2025-03-06,Priya,Rajasthan,Clothing,Phones,COD,10,500.76,49.05,Mar
+ORD-1164,2025-10-25,Shiva,Maharashtra,Clothing,Accessories,COD,12,476.77,25.0,Oct
+ORD-1165,2025-11-08,Mohan,Maharashtra,Clothing,Saree,COD,12,892.8,59.37,Nov
+ORD-1166,2025-09-11,Harivansh,Uttar Pradesh,Furniture,Bookcases,Credit Card,20,2518.26,118.85,Sep
+ORD-1167,2025-04-25,Aarav,Maharashtra,Clothing,Shirts,UPI,16,1245.8,60.4,Apr
+ORD-1168,2025-02-04,Harivansh,Madhya Pradesh,Electronics,Chairs,Debit Card,23,5982.84,485.47,Feb
+ORD-1169,2025-04-21,Priya,Uttar Pradesh,Electronics,Tables,COD,9,980.62,84.63,Apr
+ORD-1170,2025-02-25,Aarav,Delhi,Electronics,Bookcases,EMI,33,7356.29,647.26,Feb
+ORD-1171,2025-07-25,Harivansh,Maharashtra,Electronics,Chairs,COD,29,4410.86,369.97,Jul
+ORD-1172,2025-03-08,Aarav,Delhi,Furniture,Saree,COD,7,1472.59,173.94,Mar
+ORD-1173,2025-06-18,Madan,Madhya Pradesh,Clothing,Tables,COD,13,994.68,103.22,Jun
+ORD-1174,2025-12-24,Madan,Maharashtra,Clothing,Phones,Credit Card,29,759.32,36.84,Dec
+ORD-1175,2025-06-24,Aarav,Maharashtra,Electronics,Bookcases,EMI,27,4998.1,323.87,Jun
+ORD-1176,2025-06-18,Harivansh,Maharashtra,Electronics,Phones,Credit Card,8,1481.39,121.23,Jun
+ORD-1177,2025-05-10,Priya,Madhya Pradesh,Electronics,Chairs,COD,6,679.37,81.35,May
+ORD-1178,2025-12-03,Harivansh,Delhi,Clothing,Bookcases,UPI,8,254.44,12.84,Dec
+ORD-1179,2025-05-18,Shiva,Madhya Pradesh,Electronics,Accessories,UPI,6,1229.14,127.64,May
+ORD-1180,2025-10-22,Priya,Uttar Pradesh,Clothing,Saree,Credit Card,17,691.3,79.26,Oct
+ORD-1181,2025-09-21,Harivansh,Uttar Pradesh,Clothing,Saree,COD,31,1352.35,162.71,Sep
+ORD-1182,2025-10-17,Mohan,Uttar Pradesh,Clothing,Phones,COD,13,815.06,83.33,Oct
+ORD-1183,2025-05-12,Aarav,Delhi,Clothing,Bookcases,UPI,6,178.2,18.95,May
+ORD-1184,2025-10-13,Kavya,Uttar Pradesh,Electronics,Tables,Debit Card,33,6646.29,567.41,Oct
+ORD-1185,2025-09-14,Kavya,Madhya Pradesh,Clothing,Chairs,COD,17,927.93,77.4,Sep
+ORD-1186,2025-12-03,Priya,Uttar Pradesh,Clothing,Printers,COD,9,218.45,23.06,Dec
+ORD-1187,2025-11-05,Madan,Maharashtra,Furniture,Shirts,EMI,34,5479.37,431.35,Nov
+ORD-1188,2025-08-21,Madan,Maharashtra,Clothing,Saree,UPI,9,700.04,47.77,Aug
+ORD-1189,2025-06-27,Madan,Madhya Pradesh,Furniture,Bookcases,Credit Card,5,964.59,117.92,Jun
+ORD-1190,2025-05-12,Kavya,Madhya Pradesh,Clothing,Saree,UPI,33,2849.4,316.3,May
+ORD-1191,2025-02-14,Shiva,Maharashtra,Clothing,Saree,COD,10,643.56,46.43,Feb
+ORD-1192,2025-10-13,Kavya,Maharashtra,Furniture,Saree,Debit Card,34,5046.35,232.27,Oct
+ORD-1193,2025-10-02,Harivansh,Uttar Pradesh,Clothing,Bookcases,UPI,25,692.46,79.78,Oct
+ORD-1194,2025-12-02,Mohan,Uttar Pradesh,Clothing,Chairs,COD,16,1197.15,70.86,Dec
+ORD-1195,2025-09-18,Mohan,Madhya Pradesh,Clothing,Saree,COD,29,2027.42,173.47,Sep
+ORD-1196,2025-01-02,Mohan,Uttar Pradesh,Clothing,Phones,Debit Card,27,1253.64,101.51,Jan
+ORD-1197,2025-04-20,Madhav,Maharashtra,Electronics,Printers,UPI,11,1922.25,124.54,Apr
+ORD-1198,2025-09-05,Mohan,Rajasthan,Clothing,Printers,EMI,7,533.31,65.05,Sep
+ORD-1199,2025-01-21,Aarav,Delhi,Clothing,Printers,UPI,31,2646.59,238.89,Jan
+ORD-1200,2025-02-12,Priya,Delhi,Clothing,Phones,UPI,19,1145.15,57.86,Feb
+ORD-1201,2025-06-09,Shiva,Madhya Pradesh,Clothing,Bookcases,EMI,21,1791.87,105.49,Jun
+ORD-1202,2025-11-06,Mohan,Rajasthan,Electronics,Tables,COD,7,1098.41,70.81,Nov
+ORD-1203,2025-08-27,Madan,Madhya Pradesh,Electronics,Printers,Debit Card,24,2484.84,180.55,Aug
+ORD-1204,2025-05-10,Aarav,Uttar Pradesh,Clothing,Chairs,COD,20,1550.57,126.49,May
+ORD-1205,2025-05-14,Mohan,Maharashtra,Furniture,Saree,UPI,25,4196.08,202.33,May
+ORD-1206,2025-09-15,Madan,Maharashtra,Clothing,Phones,COD,21,879.02,66.37,Sep
+ORD-1207,2025-08-13,Madhav,Maharashtra,Clothing,Tables,UPI,15,736.04,65.21,Aug
+ORD-1208,2025-04-12,Kavya,Delhi,Clothing,Tables,COD,30,916.69,42.28,Apr
+ORD-1209,2025-04-18,Kavya,Maharashtra,Electronics,Tables,COD,20,5359.02,436.51,Apr
+ORD-1210,2025-11-01,Madhav,Madhya Pradesh,Furniture,Chairs,COD,10,1149.64,96.99,Nov
+ORD-1211,2025-07-26,Harivansh,Madhya Pradesh,Clothing,Chairs,EMI,26,1065.65,84.91,Jul
+ORD-1212,2025-11-14,Aarav,Uttar Pradesh,Clothing,Accessories,EMI,31,2430.4,281.38,Nov
+ORD-1213,2025-11-09,Shiva,Uttar Pradesh,Clothing,Bookcases,COD,26,681.06,68.86,Nov
+ORD-1214,2025-12-10,Harivansh,Maharashtra,Clothing,Tables,EMI,17,1179.85,136.32,Dec
+ORD-1215,2025-06-02,Madan,Delhi,Clothing,Bookcases,EMI,27,1495.9,159.64,Jun
+ORD-1216,2025-03-20,Harivansh,Uttar Pradesh,Clothing,Tables,COD,9,622.83,36.04,Mar
+ORD-1217,2025-02-01,Aarav,Maharashtra,Clothing,Bookcases,COD,15,1240.41,66.12,Feb
+ORD-1218,2025-07-06,Madan,Maharashtra,Clothing,Printers,COD,13,625.24,44.81,Jul
+ORD-1219,2025-07-27,Harivansh,Delhi,Electronics,Shirts,Credit Card,22,3962.81,279.6,Jul
+ORD-1220,2025-08-12,Shiva,Rajasthan,Furniture,Printers,Debit Card,10,1127.18,137.45,Aug
+ORD-1221,2025-08-18,Mohan,Maharashtra,Clothing,Shirts,COD,13,343.08,32.46,Aug
+ORD-1222,2025-07-02,Harivansh,Maharashtra,Clothing,Chairs,Credit Card,30,1574.43,125.63,Jul
+ORD-1223,2025-06-09,Harivansh,Madhya Pradesh,Clothing,Bookcases,UPI,27,1509.37,130.23,Jun
+ORD-1224,2025-03-23,Mohan,Maharashtra,Clothing,Shirts,UPI,19,767.86,96.1,Mar
+ORD-1225,2025-11-23,Madan,Delhi,Clothing,Tables,COD,11,671.52,36.19,Nov
+ORD-1226,2025-08-23,Shiva,Rajasthan,Clothing,Printers,Credit Card,10,284.92,28.4,Aug
+ORD-1227,2025-08-09,Priya,Rajasthan,Clothing,Printers,UPI,12,735.2,42.14,Aug
+ORD-1228,2025-05-14,Priya,Madhya Pradesh,Furniture,Chairs,COD,12,1013.32,123.6,May
+ORD-1229,2025-12-12,Mohan,Maharashtra,Clothing,Printers,Debit Card,27,977.73,100.92,Dec
+ORD-1230,2025-06-18,Shiva,Madhya Pradesh,Clothing,Bookcases,COD,22,663.55,77.98,Jun
+ORD-1231,2025-09-09,Madhav,Maharashtra,Clothing,Bookcases,UPI,19,533.09,40.79,Sep
+ORD-1232,2025-02-10,Madan,Madhya Pradesh,Clothing,Chairs,EMI,12,694.57,64.85,Feb
+ORD-1233,2025-03-02,Harivansh,Uttar Pradesh,Electronics,Printers,COD,15,3238.21,267.4,Mar
+ORD-1234,2025-10-14,Shiva,Delhi,Electronics,Shirts,Credit Card,5,1236.93,118.07,Oct
+ORD-1235,2025-03-16,Harivansh,Madhya Pradesh,Clothing,Bookcases,Debit Card,7,265.05,21.04,Mar
+ORD-1236,2025-01-03,Madhav,Uttar Pradesh,Clothing,Chairs,UPI,25,2004.9,137.73,Jan
+ORD-1237,2025-02-09,Kavya,Rajasthan,Clothing,Phones,Debit Card,23,614.72,27.46,Feb
+ORD-1238,2025-02-14,Madan,Rajasthan,Clothing,Tables,EMI,12,620.64,49.84,Feb
+ORD-1239,2025-02-11,Harivansh,Madhya Pradesh,Clothing,Shirts,EMI,16,569.98,33.54,Feb
+ORD-1240,2025-05-02,Madan,Maharashtra,Clothing,Bookcases,UPI,33,1638.44,207.57,May
